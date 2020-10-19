@@ -10,6 +10,59 @@ FIRST Robotics Competition Control System
 
 Welcome to the *FIRST*\ |reg| Robotics Competition Control System Documentation! An overview of the changes from 2019 to 2020 is available on the :ref:`New for 2020 <docs/2020-overview/new-for-2020:New for 2020>` document.
 
+.. panels::
+   :body: text-center
+   :header: text-center
+   :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
+   
+   ---
+   :img-top: assets/wpilib.svg
+
+   .. link-button:: docs/zero-to-robot/introduction
+      :type: ref
+      :text: Zero to Robot
+      :classes: btn-outline-primary btn-block stretched-link
+
+   ---
+   :img-top: assets/wpilib.svg
+
+   .. link-button:: https://google.com
+      :type: ref
+      :text: Programming Basics
+      :classes: btn-outline-primary btn-block stretched-link
+
+   ---
+   :img-top: assets/wpilib.svg
+
+   .. link-button:: https://google.com
+      :type: ref
+      :text: Advanced Programming
+      :classes: btn-outline-primary btn-block stretched-link
+
+   ---
+   :img-top: assets/wpilib.svg
+
+   .. link-button:: https://google.com
+      :type: ref
+      :text: Dashboards
+      :classes: btn-outline-primary btn-block stretched-link
+
+   ---
+   :img-top: assets/wpilib.svg
+
+   .. link-button:: https://google.com
+      :type: ref
+      :text: Hardware
+      :classes: btn-outline-primary btn-block stretched-link
+
+   ---
+   :img-top: assets/wpilib.svg
+
+   .. link-button:: https://google.com
+      :type: ref
+      :text: Networking
+      :classes: btn-outline-primary btn-block stretched-link
+
 .. toctree::
    :maxdepth: 1
    :titlesonly:
