@@ -1,0 +1,8 @@
+{
+    "name": "frc-docs container template",
+    "extensions": [
+        "ms-python.python",
+        "lextudio.restructuredtext",
+    ],
+    "postCreateCommand": "python3 -m pip install -r source/requirements.txt"
+}
