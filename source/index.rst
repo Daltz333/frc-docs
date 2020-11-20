@@ -42,13 +42,20 @@ Welcome to the *FIRST*\ |reg| Robotics Competition Control System Documentation!
    docs/software/can-devices/index
    docs/software/basic-programming/index
    docs/software/support/support-resources
-
+   
 .. toctree::
    :maxdepth: 1
    :caption: API Docs
 
-   WPILib Java API Docs <https://first.wpi.edu/FRC/roborio/release/docs/java/index.html>
-   WPILib C++ API Docs <https://first.wpi.edu/FRC/roborio/release/docs/cpp/index.html>
+   .. ifconfig:: localinstall == True
+   
+      WPILib Java API Docs <../../../java/index.html>
+      WPILib C++ API Docs <../../../cpp/index.html>
+
+   .. ifconfig:: localinstall == False
+
+      WPILib Java API Docs <https://first.wpi.edu/FRC/roborio/release/docs/java/index.html>
+      WPILib C++ API Docs <https://first.wpi.edu/FRC/roborio/release/docs/cpp/index.html>
 
 .. toctree::
    :maxdepth: 1

@@ -33,6 +33,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.todo',
     'sphinx.ext.autosectionlabel',
+    'sphinx.ext.ifconfig',
     'sphinxcontrib.ghcontributors',
     'sphinxcontrib.remoteliteralinclude',
     'sphinxcontrib.rsvgconverter',
@@ -165,6 +166,8 @@ user_options = [
 
 def setup(app):
   app.add_css_file('css/frc-rtd.css')
+  app.add_config_value('localinstall', False, check_install())
+
 
 # -- Options for latex generation --------------------------------------------
 
@@ -199,3 +202,11 @@ sphinx_tabs_valid_builders = ['epub', 'linkcheck']
 
 gettext_compact = False
 locale_dirs = ['locale/']
+
+
+# Custom logic for identifying WPILib install -------------------------------
+
+import os
+
+def check_install():
+    os.environ.get("READTHEDOCS", False)
