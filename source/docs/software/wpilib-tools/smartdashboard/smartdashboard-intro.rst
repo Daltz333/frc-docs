@@ -36,7 +36,7 @@ Setting a Custom NetworkTables Server Location
 
 By default, SmartDashboard will look for NetworkTables instances running on a connected RoboRIO, but it's sometimes useful to look for NetworkTables at a different IP address. To connect to SmartDashboard from a host other than the roboRIO, open SmartDashboard preferences under the ``File`` menu and in the ``Team Number`` field, enter the IP address or hostname of the NetworkTables host.
 
-This option is incredibly useful for using SmartDashboard with :doc:`WPILib simulation </docs/software/wpilib-tools/robot-simulation/introduction>`. Simply add ``localhost`` to the ``Team Number`` field and SmartDashboard will detect your locally-hosted robot!
+This option is incredibly useful for using SmartDashboard with :doc:`WPILib simulation </docs/software/wpilib-tools/robot-simulation/introduction/introduction>`. Simply add ``localhost`` to the ``Team Number`` field and SmartDashboard will detect your locally-hosted robot!
 
 .. image:: images/smartdashboard-networktables.png
 

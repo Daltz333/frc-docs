@@ -106,7 +106,7 @@ Robot Simulation
 
 .. image:: images/control-system-software/sim-gui.png
 
-Robot Simulation offers a way for Java and C++ teams to verify their actual robot code is working in a simulated environment.  This simulation can be launched directly from VS Code and includes a 2D field that users can visualize their robot's movement on.  For more information see the :ref:`Robot Simulation section <docs/software/wpilib-tools/robot-simulation/introduction:Introduction to Robot Simulation>`.
+Robot Simulation offers a way for Java and C++ teams to verify their actual robot code is working in a simulated environment.  This simulation can be launched directly from VS Code and includes a 2D field that users can visualize their robot's movement on.  For more information see the :ref:`Robot Simulation section <docs/software/wpilib-tools/robot-simulation/introduction/introduction:Introduction to Robot Simulation>`.
 
 FRC LabVIEW Robot Simulator (Windows Only)
 ------------------------------------------

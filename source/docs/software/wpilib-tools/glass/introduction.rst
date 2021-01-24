@@ -1,7 +1,7 @@
 Introduction to Glass
 =====================
 
-Glass is a new dashboard and robot data visualization tool. It supports many of the same :ref:`widgets <docs/software/wpilib-tools/robot-simulation/simulation-gui:Learning the Layout>` that the Simulation GUI supports, including robot pose visualization and advanced plotting. In its current state, it is meant to be used as a programmer's tool for debugging and not as a dashboard for competition use.
+Glass is a new dashboard and robot data visualization tool. It supports many of the same :ref:`widgets <docs/software/wpilib-tools/robot-simulation/introduction/simulation-gui:Learning the Layout>` that the Simulation GUI supports, including robot pose visualization and advanced plotting. In its current state, it is meant to be used as a programmer's tool for debugging and not as a dashboard for competition use.
 
 Opening Glass
 -------------

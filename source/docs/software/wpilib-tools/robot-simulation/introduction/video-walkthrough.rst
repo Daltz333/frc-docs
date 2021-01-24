@@ -2,7 +2,7 @@ A Video Walkthrough of Robot Simulation
 =======================================
 At the "RSN Spring Conference, Presented by WPI" in 2020, Peter Johnson from the WPILib team gave a presentation on Desktop Simulation of Robot Code.
 
-.. note:: A more up to date version of this walkthrough can be found :ref:`here <docs/software/examples-tutorials/drivesim-tutorial/index:Drivetrain Simulation Tutorial>`.
+.. note:: A more up to date version of this walkthrough can be found :ref:`here <docs/software/wpilib-tools/robot-simulation/drivesim-tutorial/index:Drivetrain Simulation Tutorial>`.
 
 .. raw:: html
 

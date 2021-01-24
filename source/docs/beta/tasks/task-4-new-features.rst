@@ -12,7 +12,7 @@ The purpose of this task is to test any newly developed or heavily modified feat
 
 **C++/Java**
 
-- :ref:`docs/software/wpilib-tools/robot-simulation/index:Robot Simulation` (including simulation UI, Mechanism2D and simulation physics classes. Additional SimGUI updates to come later in Beta)
+- :ref:`docs/software/wpilib-tools/robot-simulation/introduction/index:Robot Simulation` (including simulation UI, Mechanism2D and simulation physics classes. Additional SimGUI updates to come later in Beta)
 - Robot Builder for New Command Based Framework (updated docs not yet available)
 - Pathweaver update for reversed paths
 - :ref:`docs/software/wpilib-tools/robot-characterization/index:Robot Characterization` (heavily updated underneath)
