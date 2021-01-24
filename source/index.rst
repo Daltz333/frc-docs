@@ -54,15 +54,21 @@ Welcome to the *FIRST*\ |reg| Robotics Competition Control System Documentation!
    :caption: Software Tools
 
    docs/software/driverstation/index
-   docs/software/wpilib-tools/shuffleboard/index
-   docs/software/wpilib-tools/smartdashboard/index
-   docs/software/wpilib-tools/glass/index
-   docs/software/labview-dashboard/index
    docs/software/wpilib-tools/pathweaver/index
    docs/software/wpilib-tools/robotbuilder/index
    docs/software/wpilib-tools/robot-simulation/index
    docs/software/wpilib-tools/robot-characterization/index
    docs/software/wpilib-tools/outlineviewer/index
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Dashboards
+
+   docs/software/dashboards/shuffleboard/index
+   docs/software/dashboards/smartdashboard/index
+   docs/software/dashboards/glass/index
+   docs/software/dashboards/labview-dashboard/index
 
 .. toctree::
    :maxdepth: 1

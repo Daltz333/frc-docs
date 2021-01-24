@@ -41,35 +41,35 @@ LabVIEW Dashboard (Windows Only)
 
 .. image:: images/control-system-software/frc-labview-dashboard.png
 
-The LabVIEW Dashboard is automatically launched by the FRC Driver Station by default. The purpose of the Dashboard is to provide feedback about the operation of the robot using tabbed display with a variety of built in features.  More information about the FRC Default Dashboard software can be found :ref:`here <docs/software/labview-dashboard/driver-station-labview-dashboard:FRC LabVIEW Dashboard>`.
+The LabVIEW Dashboard is automatically launched by the FRC Driver Station by default. The purpose of the Dashboard is to provide feedback about the operation of the robot using tabbed display with a variety of built in features.  More information about the FRC Default Dashboard software can be found :ref:`here <docs/software/dashboards/labview-dashboard/driver-station-labview-dashboard:FRC LabVIEW Dashboard>`.
 
 SmartDashboard
 ^^^^^^^^^^^^^^
 
 .. image:: images/control-system-software/smartdashboard.png
 
-SmartDashboard allows you to view your robot data by automatically creating customizable indicators specifically for each piece of data sent from your robot.  Additional documentation on SmartDashboard can be found :ref:`here <docs/software/wpilib-tools/smartdashboard/index:SmartDashboard>`.
+SmartDashboard allows you to view your robot data by automatically creating customizable indicators specifically for each piece of data sent from your robot.  Additional documentation on SmartDashboard can be found :ref:`here <docs/software/dashboards/smartdashboard/index:SmartDashboard>`.
 
 Shuffleboard
 ^^^^^^^^^^^^
 
 .. image:: images/control-system-software/shuffleboard.png
 
-Shuffleboard has the same features as SmartDashboard. It also improves on the setup and visualization of your data with new features and a modern design at the cost of being less resource efficient.  Additional documentation on Shuffleboard can be found :ref:`here <docs/software/wpilib-tools/shuffleboard/index:Shuffleboard>`.
+Shuffleboard has the same features as SmartDashboard. It also improves on the setup and visualization of your data with new features and a modern design at the cost of being less resource efficient.  Additional documentation on Shuffleboard can be found :ref:`here <docs/software/dashboards/shuffleboard/index:Shuffleboard>`.
 
 Glass
 ^^^^^
 
 .. image:: images/control-system-software/glass.png
 
-:ref:`Glass <docs/software/wpilib-tools/glass/index:Glass>` is a Dashboard focused on being a programmer's tool for debugging.  The primary advantages are the field view, pose visualization and advanced signal plotting tools.
+:ref:`Glass <docs/software/dashboards/glass/index:Glass>` is a Dashboard focused on being a programmer's tool for debugging.  The primary advantages are the field view, pose visualization and advanced signal plotting tools.
 
 LiveWindow
 ----------
 
 .. image:: images/control-system-software/livewindow-smartdashboard.png
 
-LiveWindow is a feature of SmartDashboard and Shuffleboard, designed for use with the Test Mode of the Driver Station. LiveWindow allows the user to see feedback from sensors on the robot and control actuators independent of the written user code. More information about LiveWindow can be found :ref:`here <docs/software/wpilib-tools/smartdashboard/test-mode-and-live-window/index:SmartDashboard: Test Mode and Live Window>`.
+LiveWindow is a feature of SmartDashboard and Shuffleboard, designed for use with the Test Mode of the Driver Station. LiveWindow allows the user to see feedback from sensors on the robot and control actuators independent of the written user code. More information about LiveWindow can be found :ref:`here <docs/software/dashboards/smartdashboard/test-mode-and-live-window/index:SmartDashboard: Test Mode and Live Window>`.
 
 FRC roboRIO Imaging Tool (Windows Only)
 ---------------------------------------
